@@ -1,0 +1,1 @@
+I plan to use this repo for practice with git for CSCI325 at UTM.
